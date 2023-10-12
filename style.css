@@ -1,0 +1,29 @@
+table,tr,td{
+    border: 3px solid black;
+    text-align: center;
+    padding:22px ;
+    size: 50px;
+}
+body{
+    text-align: center;
+    background-color: rgb(247, 195, 224);
+    padding-bottom:10px ;
+}
+.T1{
+     text-align: center;
+     align-items: center;
+     justify-content: center;
+    padding: 35PX;
+    display: flex;
+}
+
+#top{
+    background-color: rgb(215, 245, 161);
+}
+
+#break{
+    background-color: rgb(132, 233, 240);
+}
+#sub{
+    background-color: rgb(255, 228, 138);
+}
